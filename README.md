@@ -2,15 +2,15 @@
 
 Hibernate jest implementacją specyfikacji Java Persistence API (JPA). Istnieje wiele projektów Hibernate:
 
-• Hibernate ORM - Wcześniej znane jako Hibernate Core. Fundament i najstarsza część Hibernate
+- Hibernate ORM - Wcześniej znane jako Hibernate Core. Fundament i najstarsza część Hibernate
 odpowiadająca za mapowanie obiektowo-relacyjne. Działająca niezależnie od reszty komponentów
 Hibernate.
-• Hibernate Search - Dostarcza pomoc do wyszukiwań na postawie zadanego tekstu.
-• Hibernate Validator - Niezależny projekt implementujący specyfikację Bean Validation. Projekt wprowadza adnotacje, które pozwalają na definiowanie ograniczeń oraz
+- Hibernate Search - Dostarcza pomoc do wyszukiwań na postawie zadanego tekstu.
+- Hibernate Validator - Niezależny projekt implementujący specyfikację Bean Validation. Projekt wprowadza adnotacje, które pozwalają na definiowanie ograniczeń oraz
 sprawdzanie czy obiekty spełniają oraniczenia.
-• Hibernate Tools
-• Hibernate Reactive
-• Hibernate Others
+- Hibernate Tools
+- Hibernate Reactive
+- Hibernate Others
 
 ## Do projektu należy zainstalować Project Lombok
 Instalacja Project Lombok
